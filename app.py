@@ -22,7 +22,7 @@ def getProduct(product_name):
 @app.route('/productos', methods=['POST'])
 def addProduct():
     new_product = {
-        "nombre": request.json['sabor'],
+        "sabor": request.json['sabor'],
         "precio": request.json['precio'],
         "cantidad": request.json['cantidad']
     }
