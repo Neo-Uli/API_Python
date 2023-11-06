@@ -1,5 +1,5 @@
 products = [
-    {"sabor":"laptop","precio":800, "cantidad":4},
-    {"sabor":"mouse","precio":40, "cantidad":10},
-    {"sabor":"monitor","precio":400, "cantidad":3}
+    {"sabor":"limon","precio":15, "cantidad":4},
+    {"sabor":"vanilla","precio":22, "cantidad":10},
+    {"sabor":"napolitano","precio":18, "cantidad":3}
 ]
